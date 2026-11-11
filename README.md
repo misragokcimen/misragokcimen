@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Mısra 👋
 
-<!--
-**misragokcimen/misragokcimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer & Data Scientist based in Istanbul. I build data products end to end: from raw data and pipelines to ML models that drive daily business decisions.
 
-Here are some ideas to get you started:
+🔭 Currently building customer segmentation, propensity and reachability models in the insurance industry
+🧪 Learning: experimentation (A/B testing), LLMs & RAG, Google Cloud / BigQuery, MLOps
+🎓 B.Sc. Industrial Engineering, TOBB University of Economics and Technology
+💬 Ask me about: SQL performance tuning, customer segmentation, turning models into business decisions
+🛠 Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python SQL pandas scikit-learn LightGBM XGBoost Apache Airflow MS SQL Server MongoDB Power BI Git
+
+📂 Featured projects
+Project	What it shows
+A/B Test Design & Simulation	Power analysis, A/A checks, the peeking problem, decision rules
+Coming soon: RAG Insurance Assistant	LLM + retrieval over policy documents
+📫 Connect
+
+LinkedIn 
+www.linkedin.com/in/misragokcimen
