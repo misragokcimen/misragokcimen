@@ -14,6 +14,7 @@
 | Project | What it shows |
 |---|---|
 | [A/B Test Design & Simulation](https://github.com/misragokcimen/ab-test-agent-matching) | Power analysis, A/A checks, the peeking problem, decision rules |
+| [E-commerce Recommender](https://github.com/misragokcimen/ecommerce-recommender) | Item-KNN, SVD and EASE on real retail data; NDCG@10 +177% vs popularity |
 | *Coming soon:* RAG Insurance Assistant | LLM + retrieval over policy documents |
 
 ### 📫 Connect
